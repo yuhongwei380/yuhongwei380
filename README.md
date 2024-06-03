@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haoxins&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoxins&layout=compact&langs_count=4&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhongwei380&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhongwei380&layout=compact&langs_count=4&hide=html,css" />
 </p>
 <!--
 **yuhongwei380/yuhongwei380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
