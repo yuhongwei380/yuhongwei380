@@ -2,7 +2,7 @@
 <p>
 </p>
 <p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhongwei380&layout=compact&langs_count=4&hide=html,css" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </p>
 <!--
 **yuhongwei380/yuhongwei380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
